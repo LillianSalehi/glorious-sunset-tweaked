@@ -1,9 +1,9 @@
 {
-  "name": "Glorious Sunset",
-  "description": "Gruvbox-based theme for Revenge.",
+  "name": "Glorious Sunset Tweaked",
+  "description": "Gruvbox-based theme tweaked for easier reading.",
   "authors": [
     {
-      "name": "myxi",
+      "name": "trainsgenber",
       "id": "598134630104825856"
     }
   ],
@@ -178,9 +178,9 @@
     "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
   },
   "background": {
-    "blur": 0,
+    "blur": 0.5,
     "url": "https://files.catbox.moe/sceiwo.png",
-    "alpha": 0.66
+    "alpha": 0.45
   },
   "plus": {
     "version": "0",
